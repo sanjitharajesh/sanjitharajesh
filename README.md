@@ -25,16 +25,14 @@ I’m currently focused on building end-to-end data and ML systems that move bey
 
 <hr/>
 
-<p align="center">
-  <strong>Contact me and let's build something great together!</strong>
-</p>
+<h2 align="center">Contact me and let's build something great together!</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjitharajesh/">LinkedIn</a>
+<p align="center" style="font-size: 16px;">
+  <a href="https://www.linkedin.com/in/sanjitharajesh/"><strong>LinkedIn</strong></a>
   &nbsp;•&nbsp;
-  <a href="mailto:sanjitharajesh03@gmail.com">Email</a>
+  <a href="mailto:sanjitharajesh03@gmail.com"><strong>Email</strong></a>
   &nbsp;•&nbsp;
-  <a href="https://sanjitha-rajesh.netlify.app">Portfolio</a>
+  <a href="https://sanjitha-rajesh.netlify.app"><strong>Portfolio</strong></a>
   &nbsp;•&nbsp;
-  <a href="https://drive.google.com/file/d/1W-aw2LZvg90uVhlQOlPIZe7w_iUJYWxS/view">Resume</a>
+  <a href="https://drive.google.com/file/d/1W-aw2LZvg90uVhlQOlPIZe7w_iUJYWxS/view"><strong>Resume</strong></a>
 </p>
