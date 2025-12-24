@@ -9,23 +9,17 @@ I’m currently focused on building end-to-end data and ML systems that move bey
 
 ### 🧰 Tech Stack
 
-**Languages**  
-Python · SQL · R · TypeScript · Bash
+**Languages:**  Python · SQL · R · TypeScript · Bash
 
-**Databases**  
-PostgreSQL · SQLite · MongoDB · Firebase
+**Databases:**  PostgreSQL · SQLite · MongoDB · Firebase
 
-**ML / GenAI**  
-PyTorch · Hugging Face · scikit-learn · LangChain
+**ML / GenAI:**  PyTorch · Hugging Face · scikit-learn · LangChain
 
-**Backend & APIs**  
-FastAPI · Flask
+**Backend & APIs:**  FastAPI · Flask · Postman
 
-**Frontend & Data Apps**  
-React · Tailwind CSS · Streamlit · Power BI
+**Frontend & Data Apps:**  React · Tailwind CSS · Streamlit · Power BI
 
-**DevOps & Cloud**  
-Docker · AWS · GitHub
+**DevOps & Cloud:**  Docker · AWS · GitHub Actions · Databricks 
 
 
 
