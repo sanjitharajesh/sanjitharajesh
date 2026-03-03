@@ -24,6 +24,8 @@ I specialize in RAG pipelines, agentic workflows, and end-to-end AI applications
 **ML:** PyTorch · scikit-learn · TensorFlow · MLflow  
 **Cloud:** AWS · Azure · GCP · Databricks · GitHub Actions  
 
+
+<h2 align="center">Contact me and let's build something great together!</h2>
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjitharajesh/"><strong>LinkedIn</strong></a>
